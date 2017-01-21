@@ -1,1 +1,0 @@
-# JavaScript_ex_3.js
